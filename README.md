@@ -43,7 +43,7 @@ Want to choose a CLA?  Harmony Agreements is a web tool that helps you quickly s
 
 Legal disclaimer
 ----------------
-I am not a lawyer, and none of the CLAhub documentation, functionality, or
+None of the CLAhub documentation, functionality, or
 other communication constitutes legal advice.  Consult your lawyer about
 contributor agreements for your project.
 
